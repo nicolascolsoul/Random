@@ -1,2 +1,4 @@
 # Random
-Random script for personna use
+Random script for personnal use
+
+Enjoy!
